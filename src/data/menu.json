@@ -1,114 +1,102 @@
 [
   {
+    "id": "QMom9q4Ku",
+    "name": "Asking Alexandria",
+    "description": "I can officially claim this is my favourite band, although some people will definitely consider it as way too heavy, which causes ear-bleeding... kidding, but this band doesnt really have as much fans as they deserve. Danny Worsnop had to deal with really tough things, and even his own band betrayed him when he really needed their support, taking another vocalist instead (interesting fact: this was a ukrainian guy, that was actually uknown before he recorded his first album with AA). However Danny didnt mean to drop his music career as far as working with his good old band, so right after he returned, he started working hard immidiatelly, as a result made a new self-titled album - basically 'Asking Alexandria'. Currenly, unfortunately, they are nothing comparing to that exact AA, that was back then, decade ago. Their style has completely changed. Its no longer as catchy and as unique... Well, nothing lasts forever... ",
+    "image": "https://imgclf.112.ua/original/2019/11/18/407836.jpeg?timestamp=1574062333",
+    "price": "metalcore",
+    "ingredients": ["metalcore", "2007", "changes", "fame", "2020"]
+  },
+  {
     "id": "XWaQXcbk0",
-    "name": "Картофель, запеченный в мундире",
-    "description": "Ароматный, сытный, шипящий домашний картофель, фаршированный сметанно-беконной начинкой, — это очень простой и очень эффектный способ накормить большое количество человек, практически не потратив на готовку ни сил, ни времени. Обычную картошку при желании тут можно заменить на сладкий батат, а в начинку добавить, к примеру, кукурузу или сладкий красный перец.",
-    "image": "https://s1.eda.ru/StaticContent/Photos/140812180013/140820212258/p_O.jpg",
-    "price": 100,
+    "name": "Black Sabbath",
+    "description": "I would be surprised if i met a person, who wouldnt be aware of 'Praranoid'. This is a real hit from them, that has been used in plenty of different films. Their music stays alive forever!",
+    "image": "data:image/jpeg;base64,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",
+    "price": "heavy metal",
     "ingredients": [
-      "Картофель",
-      "Чеснок",
-      "Сметана",
-      "Бекон",
-      "Твердый сыр",
-      "Зеленый лук"
+      "heavy metal",
+      "worldwide",
+      "90s",
+      "eternal glory",
+      "popular"
     ]
   },
   {
     "id": "pkXzyRp1P",
-    "name": "Томатный магрибский суп",
-    "description": "Томатный магрибский суп особенно распространен в Марокко и Тунисе. Он весьма прост в приготовлении и сам по себе легкий — в основе томаты и куриный бульон. Кроме них в супе только необходимые специи, мед и лимон, которые все вместе и передают тот самый восточный колорит. Вкус супа всецело зависит от качества томатов. Дополнят блюдо свежая кинза и отдельные дольки лимона.",
-    "image": "https://www.go-cook.ru/wp-content/uploads/2014/11/magribskij-tomatnyj-sup.jpg",
-    "price": 150,
+    "name": "Metallica",
+    "description": "Who wouldn't have heard about this incredible band, that apparently became a symbol of metal music and trash metal in particular. Even though the members of the band aren't really in their golden years, they still inspire not only me, but the large part of whole humanity! Impressive, how music is able to change people and rally all the fans!",
+    "image": "https://live24.ru/uploads/posts/2020-03/1583065067_metallica-vkontakte-google-chrome.jpg",
+    "price": "trash metal",
     "ingredients": [
-      "Помидоры",
-      "Куриный бульон",
-      "Мед",
-      "Петрушка",
-      "Кинза",
-      "Паприка"
+      "worldwide",
+      "trash metal",
+      "70s",
+      "80s",
+      "90s",
+      "eternal glory",
+      "popular"
     ]
-  },
-  {
-    "id": "QMom9q4Ku",
-    "name": "Крем-суп из тыквы",
-    "description": "Портрет этой оранжевой похлебки украшает обложку книги «La Cuisine du Marché» Поля Бокюза. Бокюз, придумавший так называемую новую кухню, считал тыкву одной из основ этого миропорядка, а тыквенный суп — эдакой околоплодной водой гастрономии.",
-    "image": "https://s1.eda.ru/StaticContent/Photos/121114213720/151024152626/p_O.png",
-    "price": 100,
-    "ingredients": ["Тыква", "Петрушка", "Сливки", "Бренди", "Куриный бульон"]
   },
   {
     "id": "k2k0UrjZG",
-    "name": "Салат из красной фасоли с творожным сыром",
-    "description": "Тосканский салат, выдержанный в колористике итальянского флага. Буквально нескольких ложек хватает, чтобы в желудке образовалась приятная тяжесть. Очень полезная штука с точки зрения утра, когда трудно запихнуть в себя крупные дозы биомассы, а есть при этом хочется.",
-    "image": "https://s.mediasole.ru/cache/content/data/images/1393/1393226/original.jpg",
-    "price": 150,
-    "ingredients": [
-      "Фасоль",
-      "Соль",
-      "Чеснок",
-      "Оливковое масло",
-      "Творожный сыр",
-      "Красный лук"
-    ]
+    "name": "My Chemical Romance",
+    "description": "MCR started their career in 2002, recording quite perspective album called ''. Most of their songs are full of sorrow, misery and pain, which fits their genre - emo rock, though some people claim its punk (not at all, its obvious, believe me - i finished music school XD). But for real, punk is rebellious, not melancholy. Unfortunately, the band stopped existing in 2013, however made every fan so excited with their comeback in 2020. They are already giving concerts recalling those old times when they were performing on the stage all together.",
+    "image": "https://i0.wp.com/sova.ponominalu.ru/wp-content/uploads/2020/01/thepoptopic_82655175_130556871771828_2807519527021792581_n.jpg?fit=1080%2C720&ssl=1",
+    "price": "emo-rock",
+    "ingredients": ["emo", "2007", "2002", "comeback", "2020", "tours"]
   },
   {
     "id": "j2k8U1jZd",
-    "name": "Классический греческий салат ",
-    "description": "Это рецепт из старой, привезенной из Греции, кулинарной книги. Секрет салата — свежайшие овощи и хорошая фета. Для салата используют только оливковое масло, а такие специи, как орегано и базилик, являются визитной карточкой греческой кухни.",
-    "image": "https://dietdo.ru/wp-content/uploads/2017/03/Grecheskiy-salat-retsept-klassicheskiy-s-foto-poshagovo-min.jpg",
-    "price": 350,
+    "name": "Slipknot",
+    "description": "One of my favourite bands. Corey Taylor is extremely talanted man, he has one more band called Stone Sour. Probably everyone heard their song 'Through glass', which is one of the most popular tracks of this band. Even though Slipknot and Stone Sour are kinda similar, they still are unique. Corey works not only with extreme vocals, but also with ballads and lyric trasks. Getting to the point, he is an amazing singer.",
+    "image": "https://imgclf.112.ua/original/2018/11/01/364807.jpg?timestamp=1541055261",
+    "price": "nu-metal",
     "ingredients": [
-      "Оливковое масло",
-      "Лимонный сок",
-      "Чеснок",
-      "Помидоры",
-      "Красный лук",
-      "Сыр фета",
-      "Маслины"
+      "nu-metal",
+      "amazing performance",
+      "outfits",
+      "masks",
+      "real talent",
+      "1990",
+      "2020"
     ]
   },
   {
     "id": "X2aQ7cvkd",
-    "name": "Маффины с голубикой и мускатным орехом",
-    "description": "Культовая ягода, которую научились производить круглый год, в сочетании с рыхлым тестом — это абсолютно беспроигрышный вариант. Маффины с голубикой стали популярным десертом в Англии и Америке, хотя происхождение их французское. Да и вообще эти маленькие сладкие кексы, какими мы их знаем сейчас, задумывались как обычный хлеб и на вкус были нейтральны.",
-    "image": "https://s1.eda.ru/StaticContent/Photos/120131111301/140324110953/p_O.jpg",
-    "price": 170,
-    "ingredients": [
-      "Сливочное масло",
-      "Пшеничная мука",
-      "Голубика",
-      "Ванильный экстракт",
-      "Мускатный орех"
-    ]
+    "name": "Suicide Silence",
+    "description": "Impressive deathcore band - i consider it to be the best one to represent all the specific specialities of the genre. People, who are actually into extreme music, will definitely like the band.",
+    "image": "https://images.ua.prom.st/192150032_plakat-suicide-silence.jpg",
+    "price": "deathcore",
+    "ingredients": ["deathcore", "accident", "talent lose", "changes"]
   },
   {
     "id": "nk3zy1pf8",
-    "name": "Азу по‑татарски",
-    "description": "Одно из немногих блюд, удостоившихся в советской продуктовой традиции продажи с именной нарезкой. И до сих пор в кулинариях и супермаркетах можно найти говядину, которую режут соломкой и продают как азу. Насчет самого блюда до сих пор идут споры, как и с чем готовить: использовать говядину или баранину, топленое или обычное масло, тушить в казане или сотейнике с толстым дном. Редакций этого блюда может быть много, но основа его всегда неизменна — это нарезанное соломкой мясо, картофель и томатный соус.",
-    "image": "https://s2.eda.ru/StaticContent/Photos/160105153525/160110193232/p_O.jpg",
-    "price": 270,
+    "name": "Pierce the Veil",
+    "description": "A bittersweet mix of happiness and endless sorrow. Most of their songs have quite sad context. The band appeared in 2006 after the crash of another band called Early TimesThe vocalist Vic Fuentes has a beautiful voice tone, which perfectly fits the genre. They also sometimes make collabs with other simgers. Recommend everybody to listen to their masterpieces.",
+    "image": "https://lh3.googleusercontent.com/proxy/A6VBBvF_nbO3d1k6_hdMegXyxOoUXduymSnkSdyGq25HM4dvgI5mgLIvt-wYecl_tYm2gnc2M-yo6kHfHyjkvyt9H0J9hUEhNabnxazWOt2jGm3wUIPuJ8LCh9ITM76WLEBfOk4EoA",
+    "price": "post-hardcore",
     "ingredients": [
-      "Говядина",
-      "Соленые огурцы",
-      "Картофель",
-      "Мясной бульон",
-      "Чеснок"
+      "post-hardcore",
+      "2006",
+      "Selfish Machines",
+      "Collide With The Sky",
+      "collabs"
     ]
   },
   {
     "id": "b7k2U13fd",
-    "name": "Жареный рис с яйцом по‑китайски",
-    "description": "Жареный рис — довольно распространенный ингредиент блюд восточноазиатской кухни — готовить, в сущности, можно из остатков вчерашнего ужина. Только хорошо остывший, заранее сваренный рис, в идеале простоявший всю ночь в холодильнике, при попадании в раскаленный вок не расползется до состояния каши и не превратит содержимое сковородки в неповоротливый бесформенный ком.",
-    "image": "https://s2.eda.ru/StaticContent/Photos/150428090447/150505141508/p_O.jpg",
-    "price": 240,
+    "name": "Nirvana",
+    "description": "Nirvana... how classy would it be if Kurt Cobain didnt commit suicide back then... but what if it wasnt suicide? Some people still are trying to reveal this mystery. Even the film 'Soaked in bleach' was recorded on this topic. Even though Kurt had a rough life, he and his deep music will always be in our hearts",
+    "image": "https://tk.media/storage/uploads/articles/1200x675/9/9669-article20200620163027.jpg",
+    "price": "grunge",
     "ingredients": [
-      "Круглый рис",
-      "Мини цукини",
-      "Тертый имбирь",
-      "Грибы шиитаке",
-      "Соевый соус",
-      "Кунжутное масло"
+      "1987",
+      "suicide",
+      "1994",
+      "hits",
+      "forever in our hearts",
+      "grunge",
+      "hard-rock"
     ]
   }
 ]
