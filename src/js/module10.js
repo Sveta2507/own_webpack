@@ -13,10 +13,14 @@ const Theme = {
 };
 const switchBtn = document.querySelector(".js-switch-input");
 console.log(switchBtn);
-if (localStorage.getItem("colorTheme")) {
+if (localStorage.getItem("colorTheme") === Theme.LIGHT) {
   body.classList.add(Theme.LIGHT);
   switchBtn.checked = false;
   localStorage.setItem("colorTheme", Theme.LIGHT);
+} else {
+  body.classList.add(Theme.DARK);
+  switchBtn.checked = true;
+  localStorage.setItem("colorTheme", Theme.DARK);
 }
 switchBtn.addEventListener("change", () => {
   console.dir(switchBtn);
